@@ -1,4 +1,4 @@
-# **[My Portfolio]**  
+# **My Portfolio**  
 [gambizadelvin9@gmail.com](gambizadelvin9@gmail.com) | [www.linkedin.com/in/delvin-gambiza-b4346617b/](www.linkedin.com/in/delvin-gambiza-b4346617b/) 
 
 ---
