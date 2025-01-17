@@ -23,20 +23,19 @@ __Cloud & Data Enthusiast__
 
 ## **Projects:**
 
-### **🏡 Property Valuation Model using Random Forest Technique**
+### **🏡 [Property Valuation Model using Random Forest Technique](https://github.com/DelvinGambiza/property-valuation)**
 
 This project utilized a Random Forest machine learning approach implemented in R to develop a predictive model for estimating property values. Given a set of property parameters (e.g., location, size), the model predicts the property’s value. This project involved data preprocessing, feature engineering, and model validation and fine tuning to increase model accuracy.
 
-### **🍴 Restaurant Setup**
-
+### **🍴 [Restaurant Setup](https://github.com/DelvinGambiza/ristorante-setup)**
 The primary objective of this project was to determine the optimal cuisine type and location for establishing a new restaurant. The project involved data transformation using Python and data analysis using SQL on the Yelp dataset from Kaggle. The database and server infrastructure were hosted on Microsoft Azure. 
 
-### **🎥 YouTube Data Analysis**
+### **🎥 [YouTube Data Analysis](https://github.com/DelvinGambiza/YouTube-data-analysis-for-content-strategy)**
 
 This project analyzed YouTube data across various content categories to provide actionable recommendations for an effective content creation strategy. Tableau was used to create insightful visualizations, while Python facilitated data preprocessing and analysis. Additionally, a simple regression model was implemented to evaluate the impact of one variable on another, uncovering key factors influencing content performance.
 
 
-### **💻 Clash of the semiconductor titans**
+### **💻 [Clash of the semiconductor titans](https://github.com/DelvinGambiza/Intel-vs-its-competitors)**
 
 This project analyzed Intel’s strategic missteps that led to its decline in GPU and CPU sales, allowing competitors like Nvidia, ARM, and AMD to gain market dominance. Mathematica and Python were utilized to analyze financial data from Intel and its competitors, as well as to perform web scraping for gathering additional insights.
 
