@@ -15,10 +15,9 @@ __Cloud & Data Enthusiast__
 
 ## **SKILLS**
 
-**Software/Tools**: Microsoft Office Suite(Word, Excel, Powerpoint, Visio), Veeam, VMware, SAP, Mobaxterm, GitHub, Databricks, Knime, Tableau
+**Technical**: Microsoft Office Suite(Word, Excel, Powerpoint, Visio), Veeam, VMware, SAP, Mobaxterm, GitHub, Databricks, Knime, AWS, Tableau, Microsoft Azure,Windows, Windows Server, MacOS, Linux
 
 **Programming Languages**: C, C++, VB.NET, JavaScript (NodeJS, ExpressJS), Java, Python, R, SQL, MongoDB, Mathematica 
-
 
 ---
 
@@ -30,7 +29,7 @@ This project utilized a Random Forest machine learning approach implemented in R
 
 ### **🍴 Restaurant Setup**
 
-The primary objective of this project was to determine the optimal cuisine type and location for establishing a new restaurant. The project involved data transformation using Python and data analysis using SQL on the Yelp dataset from Kaggle. 
+The primary objective of this project was to determine the optimal cuisine type and location for establishing a new restaurant. The project involved data transformation using Python and data analysis using SQL on the Yelp dataset from Kaggle. The database and server infrastructure were hosted on Microsoft Azure. 
 
 ### **🎥 YouTube Data Analysis**
 
