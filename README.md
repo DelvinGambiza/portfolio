@@ -31,6 +31,10 @@ This project utilized a Random Forest machine learning approach implemented in R
 
 ### **Restaurant Setup**
 
-This projext
+The primary objective of this project was to determine the optimal cuisine type and location for establishing a new restaurant. The project involved data transformation using Python and data analysis using SQL on the Yelp dataset from Kaggle. 
+
+### **YouTube Data Analysis**
+
+This project analyzed YouTube data across various content categories to provide actionable recommendations for an effective content creation strategy. Tableau was used to create insightful visualizations, while Python facilitated data preprocessing and analysis. Additionally, a simple regression model was implemented to evaluate the impact of one variable on another, uncovering key factors influencing content performance.
    
 
