@@ -1,6 +1,7 @@
-# **__Cloud & Data Enthusiast__** 
+# **Delvin Gambiza** 
 [gambizadelvin9@gmail.com](gambizadelvin9@gmail.com) | [LinkedIn](www.linkedin.com/in/delvin-gambiza-b4346617b/) 
 
+__Cloud & Data Enthusiast__
 ---
 
 ## **EDUCATION**
