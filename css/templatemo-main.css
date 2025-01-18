@@ -164,7 +164,7 @@ nav {
 	top: 10vh;
 	bottom: 10vh;
   	text-align: center;
-  	background: rgba(0, 0, 0, 0.5);
+  	background: rgba(0, 0, 0, 0.3);
   	position: fixed;
   	z-index: 100;
   	height: 80vh;
@@ -282,26 +282,28 @@ nav a:hover::before {
   left: 30%;
   top: 10%;
   bottom: 10%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.3);
 }
 .content::-webkit-scrollbar {
   width: 5px;
   height: 8px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 /* Add a thumb */
 .content::-webkit-scrollbar-thumb {
-    background: rgba(250, 250, 250, 0.5);
+    background: rgba(250, 250, 250, 0.3);
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/data.jpg);
+  /*filter: blur(1px); /* Adjust the blur intensity */
 }
+
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-image: url(../img/data.jpg);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/third_bg.jpg);
+  background-image: url(../img/data.jpg);
 }
 .slides .slide:nth-child(4) {
   background-image: url(../img/fourth_bg.jpg);
@@ -430,7 +432,7 @@ nav a:hover::before {
 }
 
 .second-content h2 {
-	font-size: 36px;
+	font-size: 24px;
 	text-transform: uppercase;
 	font-weight: 700;
 	color: #fff;
@@ -512,6 +514,10 @@ nav a:hover::before {
 	padding-bottom: 10px;
 	margin-bottom: 20px;
 	margin-top: 0px;
+}
+
+.third-content .text h2{
+	font-size: 24px;
 }
 
 .third-content p {
@@ -612,7 +618,7 @@ nav a:hover::before {
 
 .fourth-content .item .hover-effect p {
 	font-size: 13px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 0.5px;
 	line-height: 22px;
 	padding-bottom: 0px;
@@ -695,9 +701,9 @@ nav a:hover::before {
 }
 
 .footer .content {
-	left: 30%;
-	width: 70%;
-	max-width: 70%;
+	/*left: 30%;*/
+	width: 100%;
+	max-width: 100%;
 	position: absolute;
 	bottom: 0;
 	right: 0;
